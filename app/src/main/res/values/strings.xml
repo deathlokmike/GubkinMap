@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gubkin Map</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_scan">Сканировать</string>
+    <string name="search_there">Куда</string>
+    <string name="search_where">Откуда</string>
+    <string name="qr_string">Наведите на QR-код</string>
+    <string name="error_msg">"Не существует %1$s"</string>
+    <string name="todo">TODO</string>
+</resources>
